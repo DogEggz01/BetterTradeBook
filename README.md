@@ -4,6 +4,8 @@
 This is a feature mod separate from Economic Overhaul, for people who don't want the economic change. I will just copy the readme so i don't need to write twice.
 
 ## Trade book change
+![Uploading image.png…]()
+
 - You can access to trade book start at rep 0 now.
 - Add Bulk trade QoL option. The price will be calcualated as you buy it 1 by 1
   - Press Alt and hover over buy/sell/loan will do 5 cargo at a time
