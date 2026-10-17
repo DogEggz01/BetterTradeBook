@@ -4,7 +4,7 @@
 This is a feature mod separate from Economic Overhaul, for people who don't want the economic change. I will just copy the readme so i don't need to write twice.
 
 ## Trade book change
-![Uploading image.png…]()
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/042da0c1-6cff-4535-8776-57b2f7e1aad2" />
 
 - You can access to trade book start at rep 0 now.
 - Add Bulk trade QoL option. The price will be calcualated as you buy it 1 by 1
